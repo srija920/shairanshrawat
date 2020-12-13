@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src= "./Assests/Hi.gif" width="29px">, I'm SAI SRIJA PANCHAGNULA</h1>
+<h1 align="center">Hola <img src= "./Assests/Hi.gif" width="29px">, I'm SHAIRAN SHRAWAT</h1>
 <h3 align="center">A passionate Software Professional from India</h3>
 <div align="center">
 You have finally discovered my Github profile. <br>
